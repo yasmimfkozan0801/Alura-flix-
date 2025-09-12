@@ -1,5 +1,11 @@
 body{
     background-color: rgb(232, 167, 221);
     color:blueviolet;
-    font-family:'Courier New', Courier, monospace;
+    font-family: "Fascinate", system-ui;
+}
+header{
+    font-size: 60px;
+}
+h1{
+    font-size: 30px;
 }
