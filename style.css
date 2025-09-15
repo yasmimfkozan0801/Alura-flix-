@@ -5,7 +5,11 @@ body{
 }
 header{
     font-size: 60px;
+    border: Roundest 5px blueviolet;
 }
 h1{
     font-size: 30px;
+}
+p{
+    font-size: 20px;
 }
