@@ -2,10 +2,14 @@ body{
     background-color: rgb(232, 167, 221);
     color:blueviolet;
     font-family: "Fascinate", system-ui;
+    margin: 0px;
 }
 header{
     font-size: 60px;
-    border: Roundest border 5px blueviolet;
+    border: dashed 5px blueviolet;
+    text-align: center;
+    /*margin: 30px;*/
+    padding: 30px;
 }
 h1{
     font-size: 30px;
